@@ -1,0 +1,2 @@
+# python
+ about all python
